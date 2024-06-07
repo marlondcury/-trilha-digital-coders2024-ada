@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fila/Fila.iml" filepath="$PROJECT_DIR$/Fila/Fila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaEncadeada/ListaEncadeada.iml" filepath="$PROJECT_DIR$/ListaEncadeada/ListaEncadeada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pilhas/Pilhas.iml" filepath="$PROJECT_DIR$/Pilhas/Pilhas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-de-dados-Ada.iml" filepath="$PROJECT_DIR$/estrutura-de-dados-Ada.iml" />
+    </modules>
+  </component>
+</project>
